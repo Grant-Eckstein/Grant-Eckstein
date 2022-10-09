@@ -1,4 +1,4 @@
-### 👋 Hi! I'm Grant, a software engineer exploring Site Reliability Engineering at Ferguson
+### 👋 Hi, I'm Grant!
 
 - 🔭 I'm currently working on:
   - [A cryptography library to manage keys](https://github.com/Grant-Eckstein/blind)
